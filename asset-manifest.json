@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/blah-frontend/static/css/main.073c9b0a.css",
-    "main.js": "/blah-frontend/static/js/main.ed20b590.js",
+    "main.js": "/blah-frontend/static/js/main.388f4637.js",
     "static/js/787.845be578.chunk.js": "/blah-frontend/static/js/787.845be578.chunk.js",
     "index.html": "/blah-frontend/index.html",
     "main.073c9b0a.css.map": "/blah-frontend/static/css/main.073c9b0a.css.map",
-    "main.ed20b590.js.map": "/blah-frontend/static/js/main.ed20b590.js.map",
+    "main.388f4637.js.map": "/blah-frontend/static/js/main.388f4637.js.map",
     "787.845be578.chunk.js.map": "/blah-frontend/static/js/787.845be578.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ed20b590.js"
+    "static/js/main.388f4637.js"
   ]
 }
